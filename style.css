@@ -11,6 +11,14 @@ body {
     margin: 35px auto;
 }
 
+header{
+    padding: 0 30px;
+}
+
+main {
+    padding: 10px 30px;
+}
+
 h1 {
     max-width: 1080px;
     margin: 0 auto;
